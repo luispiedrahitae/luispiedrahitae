@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning DevOps from scratch, i'm not a software engineer. It will be a long journey but here I'am
 - 💞️ Any advice is welcome
 - 📫 How to reach me luispiedrahitae@gmail.com
+- Adding new staff
 
 <!---
 luispiedrahitae/luispiedrahitae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
